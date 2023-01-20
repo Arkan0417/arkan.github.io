@@ -1,0 +1,38 @@
+.main-header {
+  background-image: url(../images/smk.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10% 0;
+  background-color: #676767;
+  color: white;
+  background-blend-mode:  multiply;
+}
+
+.container-fluid {
+  overflow: hidden;
+}
+
+.hero-gambar {
+  margin-bottom: 2%;
+  width: 205px;
+  height: 250px;
+}
+
+.main-cerita {
+  padding:12% 0;
+}
+
+.main-karya{
+  background-color: #DDDDDD;
+  padding:12% 0;
+}
+
+.main-karya h6 {
+  margin-bottom: 10%;
+}
+
+.main-footer {
+  background-color: black;
+  color: white;
+  padding: 5% 0;
+}
